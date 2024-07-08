@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>[Azure Sentinal SIEM Lab](https://github.com/charithherath251/HONEYPOT)</b>
-- <b>[Virtual Active Directory Lab Environment]</b>
+- <b>Virtual Active Directory Lab Environment</b>
 
 
 
